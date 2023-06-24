@@ -3,16 +3,9 @@ Text Editor created using Progressive Web Applications
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This code houses a progressive web application that has the capability to run in the browser and offline on your local machine. This application was created to test the usage of PWAs in developing applications that can be accessible form anywhere. This application uses several technologies include: Node.js, Express.js, Nodemon and more.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,46 +14,30 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This application requires several packages to be installed before it can be used. Start by cloning the code from the following repository: 
+https://github.com/nabeekha/PWA-Text-Editor
+
+From here, run "npm i" in order to install various dependencies and call the application with "npm run start" from the root directory. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Please find the live deployed application at the site below:
+https://github.com/nabeekha/PWA-Text-Editor
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![JATE Demo](./assets/JATE%20Capture%201.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+No collaborators were worked with in the creation of this application. 
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
+This application uses MIT license. Please feel free to leverage the code for any projects that you need.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+No constribution is needed towards this applicaiton at this time. Please feel free to reach out to make suggestions if needed.
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+No tests are used to run this application
